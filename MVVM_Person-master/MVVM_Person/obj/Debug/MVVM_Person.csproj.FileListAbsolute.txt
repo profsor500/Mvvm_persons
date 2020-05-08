@@ -1,0 +1,16 @@
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\bin\Debug\MVVM_Person.exe.config
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\bin\Debug\MVVM_Person.exe
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\bin\Debug\MVVM_Person.pdb
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.csprojAssemblyReference.cache
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MainWindow.g.cs
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\App.g.cs
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person_MarkupCompile.cache
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person_MarkupCompile.lref
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MainWindow.baml
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.g.resources
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.Properties.Resources.resources
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.csproj.GenerateResource.cache
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.csproj.CoreCompileInputs.cache
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.exe
+C:\Users\profsor500\Desktop\mvvm\MVVM_Person-master\MVVM_Person\obj\Debug\MVVM_Person.pdb
